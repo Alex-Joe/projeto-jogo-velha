@@ -11,6 +11,7 @@ body {
 	text-align: center;
 	font-size: 60px;
 	cursor: pointer;
+	color: #eee;
 }
 
 .jogador, .vencedor {
